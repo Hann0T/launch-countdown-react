@@ -1,0 +1,16 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.background {
+  min-height: 100vh;
+  background: url(/public/images/pattern-hills.svg);
+}
+
+@media (max-width: 768px) {
+  .container {
+    box-sizing: border-box;
+    padding: 0 30px;
+  }
+}
