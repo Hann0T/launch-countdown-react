@@ -39,3 +39,4 @@ We provide the required social icons. But, if you prefer, you can use a font ico
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
 - [Ionicons](https://ionicons.com)
+
