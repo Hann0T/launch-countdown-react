@@ -1,10 +1,13 @@
 import React from 'react';
 
+import './Card.css';
+
 const Card = (props) => {
   return (
     <div className='card'>
-      <span>{props.value}</span>
-      <span>{props.format}</span>
+      <span className='bg-dark'></span>
+      <span className='number'>{props.value}</span>
+      <span className='indicator'>{props.format}</span>
     </div>
   );
 };
